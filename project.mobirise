@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Coaching Expresivo",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -13,7 +13,7 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Playlist Script",
+        "display1Font": "Playlist Script 2",
         "display1Size": 4.25,
         "display2Font": "Lato",
         "display2Size": 3,
@@ -44,6 +44,12 @@
         "name": "Playlist Script",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/Playlist%20Script/font.otf"
+      },
+      {
+        "css": "'Playlist Script 2'",
+        "name": "Playlist Script 2",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Playlist%20Script%202/font.ttf"
       }
     ],
     "uniqCompNum": 17,
