@@ -2396,7 +2396,9 @@ body {
   }
 }
 .cid-r5DgMjPSIY {
-  background-image: url("../../../assets/images/placa-maria-1-1920x1080.png");
+  padding-top: 45px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
 }
 .cid-r5DgMjPSIY h1 {
   color: #616161;
@@ -2411,10 +2413,11 @@ body {
 }
 .cid-r5Dke67cSL {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-r5Dke67cSL .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-r5Dke67cSL .video-block {
