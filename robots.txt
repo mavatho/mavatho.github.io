@@ -3,26 +3,7 @@ User-agent: *
 Allow: /
 
 # Regla 2
-User-agent: *
-Disallow: /assets/bootstrap/
-Disallow: /assets/bootstrapcarouselswipe/
-Disallow: /assets/dropdown/
-Disallow: /assets/fonts/
-Disallow: /assets/formoid/
-Disallow: /assets/gallery/
-Disallow: /assets/imagesloaded/
-Disallow: /assets/masonry/
-Disallow: /assets/mobirise/
-Disallow: /assets/parallax/
-Disallow: /assets/popper/
-Disallow: /assets/slidervideo/
-Disallow: /assets/smoothscroll/
-Disallow: /assets/socicon/
-Disallow: /assets/tether/
-Disallow: /assets/theme/
-Disallow: /assets/touchswipe/
-Disallow: /assets/vimeoplayer/
-Disallow: /assets/web/
+
 
 # Regla 3
 Sitemap: http://www.coachingexpresivo.com/sitemap.xml
