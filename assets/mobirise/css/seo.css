@@ -1830,9 +1830,11 @@ body {
 .cid-r5tsa2NYm6 .mbr-section-btn {
   text-align: left;
 }
-.cid-r5tsa2NYm6 H3 {
+.cid-r5tsa2NYm6 H3,
+.cid-r5tsa2NYm6 h2 {
   text-align: left;
 }
+
 .cid-r5tEchNQQo {
   padding-top: 90px;
   padding-bottom: 75px;
@@ -2928,7 +2930,7 @@ body {
   }
 }
 .cid-r5Dnrd9OSO {
-  background-image: url("../../../assets/img/coaching-expresivo-servicios.jpg");
+  background-image: url("../../../assets/img/maria-thompson-02.jpg");
 }
 .cid-r5Dnrd9OSO h1 {
   color: #616161;
